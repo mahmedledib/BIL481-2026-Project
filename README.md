@@ -12,3 +12,6 @@
 | --- | --- | --- | --- |
 | Arjen Tüysüz | @arjentuysuz | a.tuysuz@etu.edu.tr | 221401025 |
 | Mohamed Ahmed Ledib | @mahmedledib | mledib@etu.edu.tr | 241410032 |
+
+## Project folder link
+https://drive.google.com/drive/folders/1KA4IAGZhgOzF2FD0jQj2fQLYN8rtvrDB?usp=sharing
